@@ -1,4 +1,8 @@
 # image_converter
-lower the image quality to bypass baudu yun's image protection
+reduce the image quality to pass bauduyun's image protection
 
-test push
+## Environment
+- python 3.7.2
+
+## Installation:
+> pip install numpy Matplotlib opencv-python
